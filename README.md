@@ -34,4 +34,4 @@ A API retorna imagens aleat√≥rias, por isso os resultados mudam a cada atualiza√
 
 ##  feita por:
 
-Rafaell Henrique Nogueira Vogado
+Rafaell Henrique Nogueira Vogado.
